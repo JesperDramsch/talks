@@ -2,7 +2,7 @@
 
 | Event | Location | Date | Link | Video |
 | ----- | -------- | ---- | ---- | ----- |
-| Pydata Global 2021 | Online | 2021-10-30 | [Pydata](https://pydata.org/global2021/schedule/presentation/112/how-to-guarantee-no-one-understands-what-you-did-in-your-machine-learning-project/) | [Video](https://www.youtube.com/watch?v=ucgCGGb088E)
+| Pydata Global 2021 | Online | 2021-10-30 | [Pydata](https://pydata.org/global2021/schedule/presentation/112/how-to-guarantee-no-one-understands-what-you-did-in-your-machine-learning-project/) | [Video](https://www.youtube.com/watch?v=ucgCGGb088E) |
 
 > Data science and machine learning can be a lot of fun. Freshly out of university, a bootcamp, or through the grinder of a Kaggle competition, we learned all the neat technical tricks. Suddenly that's only a basic requirement to get a job or even make anyone interested in your machine learning project. Let's dissect that.
 >
