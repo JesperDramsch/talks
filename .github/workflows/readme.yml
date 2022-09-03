@@ -1,0 +1,33 @@
+name: Rebuild Readme
+
+on: 
+  push:
+    paths-ignore:
+      - README.md
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+  
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - name: Set up Python 3.x
+      uses: actions/setup-python@master
+      with:
+        # Semantic version range syntax or exact version of a Python version
+        python-version: '3.x'
+    # You can test your matrix by printing the current Python version
+    - name: Run Script
+      run: |
+        cd ${GITHUB_WORKSPACE}
+        python ./.github/workflows/make_readme.py
+    - name: commit rendered README
+      run: |-
+        git config user.name "${GITHUB_ACTOR}"
+        git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+        git add .
+        git diff-index --quiet HEAD || git commit -am "Update dynamic content" && git push --all https://${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git
