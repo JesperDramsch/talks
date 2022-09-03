@@ -8,6 +8,7 @@
 
 
 
+
 <!-- TALKS -->
 ### Increase citations, ease review & collaboration – Making machine learning in research reproducible
 
@@ -38,6 +39,7 @@
 >
 > We'll explore specific tools from machine learning explainability, interpretability and touch on causality. We'll talk about ethical considerations. We'll explore helpful visualizations and tools for interactivity. Finally, we talk about model validation specific to different expert domains and tie it all together.
 <!-- //TALKS -->
+
 
 
 
