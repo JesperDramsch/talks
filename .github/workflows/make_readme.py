@@ -27,7 +27,7 @@ def insert_text(main_readme: str, text: str) -> str:
 
 
 def get_readme_paths():
-    return [readme for readme in Path(".").rglob("README.md") if readme != Path(".", "README.md")]
+    return sorted((readme for readme in Path(".").rglob("README.md") if readme != Path(".", "README.md")), reverse=True)
 
 
 def read_readmes(paths: list) -> list:
