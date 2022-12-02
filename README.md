@@ -9,6 +9,7 @@
 
 
 
+
 <!-- TALKS -->
 ### Increase citations, ease review & collaboration – Making machine learning in research reproducible
 
@@ -21,6 +22,77 @@
 > This tutorial aims to provide easy ways to increase the quality of scientific contributions that use machine learning methods. The reproducible aspect will make it easy for fellow researchers to use and iterate on a publication, increasing citations of published work. The use of appropriate validation techniques and increase in code quality accelerates the review process during publication and avoids possible rejection due to deficiencies in the methodology. Making models, code and possibly data available increases the visibility of work and enables easier collaboration on future work.
 >
 > This work to make machine learning applications reproducible has an outsized impact compared to the limited additional work that is required using existing Python libraries.
+### How to Guarantee No One Understands What You Did in Your Machine Learning Project
+
+| Event | Location | Date | Link | Video | Slides |
+| ----- | -------- | ---- | ---- | ----- | ------ |
+| SSI Fellowship 2022 | Online | 2021-10-30 | [SSI](https://dramsch.net/ssi) | [Video](https://youtu.be/wxMZxbui4Bg) | [Slides](2021-10-31%20SSI%20Fellowship%20Application/) |
+
+##### 🔁 THE REPRODUCIBILITY CRISIS
+Machine learning can do amazing feats. BUT time and time again, we see problems reproducing the findings.
+
+Why?
+
+- Randomness of neural networks
+- Software versions
+- Different hardware
+- Proprietary data
+- Proprietary labels
+
+##### 💥 SUSTAINABLE MACHINE LEARNING APPLICATIONS
+Let's educate researchers not in ML on how to make their awesome experiments using ML reproducible.
+
+The plan from the video: 🛠️ Create a workshop for ML applications 🎥 Keep going with YouTube ✒️ Write more articles 📣 More Talks
+
+##### 🛠️ THE WORKSHOP
+What does Workshop for Sustainable Machine Learning applications in Research look like?
+
+Open to ideas, here's a start
+
+- fix random seeds
+- provide software versions
+- use best practices
+- interpretable and explainable AI
+
+Maybe PyData will have me?
+
+##### 🎥 KEEP YOUTUBE GOING
+My Youtube revolves around
+
+- 🤖 machine learning
+- 💾 data science
+- 🐍 Python programming
+- 👔 careers
+
+And I love talking about making these accessible. Access to open software is at the core of making research reproducible and good.
+
+
+##### ✒️WRITING
+I wrote 60 articles last year.
+
+These two fall squarely into the content that will help you make machine learning work in your research.
+
+> Get a Software Person!
+
+> If Your Model Doesn't Work, Make it Smaller
+
+##### 📣 TALKS
+
+I have presented a bunch of my research, but that's very different to giving a PyData conference talk.
+
+With the help of the amazing mentors for first-timers like myself, I started the "How to Guarantee ..." - series
+
+There's a playlist.
+
+#### CONCLUSION
+
+For this Software Sustainability Institute 2022 fellowship I plan to:
+
+- Create a workshop for ML applications
+- Keep going with YouTube
+- Write more articles
+- Give More Talks
+
 ### How to Guarantee No One Understands What You Did in Your Machine Learning Project
 
 | Event | Location | Date | Link | Video | Slides |
@@ -39,6 +111,7 @@
 >
 > We'll explore specific tools from machine learning explainability, interpretability and touch on causality. We'll talk about ethical considerations. We'll explore helpful visualizations and tools for interactivity. Finally, we talk about model validation specific to different expert domains and tie it all together.
 <!-- //TALKS -->
+
 
 
 
