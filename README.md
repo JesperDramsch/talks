@@ -10,7 +10,34 @@
 
 
 
+
 <!-- TALKS -->
+### Real-world Perspectives to Avoid the Worst Mistakes using Machine Learning in Science
+
+
+| Event | Location | Date | Link | Video | Slides |
+| ----- | -------- | ---- | ---- | ----- | ------ |
+| Pydata Global 2022 | Online | 2022-12-02 | [Pydata](https://global2022.pydata.org/cfp/talk/Y9VFDD/) | | [Slides](2022-12-02%20Pydata%20Global/) |
+
+> Numerous scientific disciplines have noticed a reproducibility crisis of published results. While this important topic was being addressed, the danger of non-reproducible and unsustainable research artefacts using machine learning in science arose. The brunt of this has been avoided by better education of reviewers who nowadays have the skills to spot insufficient validation practices. However, there is more potential to further ease the review process, improve collaboration and make results and models available to fellow scientists. This workshop will teach practical lessons that can be directly applied to elevate the quality of ML applications in science by scientists.
+
+The overview talk serves to set the scene and present different areas where researchers can increase the quality of their research artefacts that use ML. These increases in quality are achieved by using existing solutions to minimize the impact these methods take on researcher productivity.
+
+This talk loosely covers the topics Jesper discussed in their Euroscipy tutorial which will be used for the interactive session here:
+
+https://github.com/JesperDramsch/ml-for-science-reproducibility-tutorial
+
+Topics covered:
+
+- Why make it reproducible?
+- Model Evaluation
+- Benchmarking
+- Model Sharing
+- Testing ML Code
+- Interpretability
+- Ablation Studies
+
+These topics are used as examples of “easy wins” researchers can implement to disproportionately improve the quality of their research output with minimal additional work using existing libraries and reusable code snippets.
 ### Increase citations, ease review & collaboration – Making machine learning in research reproducible
 
 | Event | Location | Date | Link | Video | Slides |
@@ -111,6 +138,7 @@ For this Software Sustainability Institute 2022 fellowship I plan to:
 >
 > We'll explore specific tools from machine learning explainability, interpretability and touch on causality. We'll talk about ethical considerations. We'll explore helpful visualizations and tools for interactivity. Finally, we talk about model validation specific to different expert domains and tie it all together.
 <!-- //TALKS -->
+
 
 
 
