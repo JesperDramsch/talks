@@ -12,6 +12,7 @@
 
 
 
+
 <!-- TALKS -->
 ### Real-world Perspectives to Avoid the Worst Mistakes using Machine Learning in Science
 
@@ -51,7 +52,7 @@ These topics are used as examples of “easy wins” researchers can implement t
 > This tutorial aims to provide easy ways to increase the quality of scientific contributions that use machine learning methods. The reproducible aspect will make it easy for fellow researchers to use and iterate on a publication, increasing citations of published work. The use of appropriate validation techniques and increase in code quality accelerates the review process during publication and avoids possible rejection due to deficiencies in the methodology. Making models, code and possibly data available increases the visibility of work and enables easier collaboration on future work.
 >
 > This work to make machine learning applications reproducible has an outsized impact compared to the limited additional work that is required using existing Python libraries.
-### How to Guarantee No One Understands What You Did in Your Machine Learning Project
+### Application to Software Sustainability Institute Fellowship 2022
 
 | Event | Location | Date | Link | Video | Slides |
 | ----- | -------- | ---- | ---- | ----- | ------ |
@@ -85,34 +86,6 @@ Open to ideas, here's a start
 
 Maybe PyData will have me?
 
-##### 🎥 KEEP YOUTUBE GOING
-My Youtube revolves around
-
-- 🤖 machine learning
-- 💾 data science
-- 🐍 Python programming
-- 👔 careers
-
-And I love talking about making these accessible. Access to open software is at the core of making research reproducible and good.
-
-
-##### ✒️WRITING
-I wrote 60 articles last year.
-
-These two fall squarely into the content that will help you make machine learning work in your research.
-
-> Get a Software Person!
-
-> If Your Model Doesn't Work, Make it Smaller
-
-##### 📣 TALKS
-
-I have presented a bunch of my research, but that's very different to giving a PyData conference talk.
-
-With the help of the amazing mentors for first-timers like myself, I started the "How to Guarantee ..." - series
-
-There's a playlist.
-
 #### CONCLUSION
 
 For this Software Sustainability Institute 2022 fellowship I plan to:
@@ -140,6 +113,7 @@ For this Software Sustainability Institute 2022 fellowship I plan to:
 >
 > We'll explore specific tools from machine learning explainability, interpretability and touch on causality. We'll talk about ethical considerations. We'll explore helpful visualizations and tools for interactivity. Finally, we talk about model validation specific to different expert domains and tie it all together.
 <!-- //TALKS -->
+
 
 
 
