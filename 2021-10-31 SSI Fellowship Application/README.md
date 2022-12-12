@@ -1,4 +1,4 @@
-# How to Guarantee No One Understands What You Did in Your Machine Learning Project
+# Application to Software Sustainability Institute Fellowship 2022
 
 | Event | Location | Date | Link | Video |
 | ----- | -------- | ---- | ---- | ----- |
@@ -31,34 +31,6 @@ Open to ideas, here's a start
 - interpretable and explainable AI
 
 Maybe PyData will have me?
-
-### 🎥 KEEP YOUTUBE GOING
-My Youtube revolves around
-
-- 🤖 machine learning
-- 💾 data science
-- 🐍 Python programming
-- 👔 careers
-
-And I love talking about making these accessible. Access to open software is at the core of making research reproducible and good.
-
-
-### ✒️WRITING
-I wrote 60 articles last year.
-
-These two fall squarely into the content that will help you make machine learning work in your research.
-
-> Get a Software Person!
-
-> If Your Model Doesn't Work, Make it Smaller
-
-### 📣 TALKS
-
-I have presented a bunch of my research, but that's very different to giving a PyData conference talk.
-
-With the help of the amazing mentors for first-timers like myself, I started the "How to Guarantee ..." - series
-
-There's a playlist.
 
 ## CONCLUSION
 
