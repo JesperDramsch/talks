@@ -3,6 +3,33 @@
 ## All Talks
 
 <!-- TALKS -->
+### Real-world Perspectives to Avoid the Worst Mistakes using Machine Learning in Science
+
+
+| Event | Location | Date | Link | Video | Slides |
+| ----- | -------- | ---- | ---- | ----- | ------ |
+| Pydata Global 2022 | Online | 2022-12-02 | [Pydata](https://global2022.pydata.org/cfp/talk/Y9VFDD/) | [Youtube](https://youtu.be/I1st7eeyo2k) | [Slides](2022-12-02%20Pydata%20Global/) |
+
+> Numerous scientific disciplines have noticed a reproducibility crisis of published results. While this important topic was being addressed, the danger of non-reproducible and unsustainable research artefacts using machine learning in science arose. The brunt of this has been avoided by better education of reviewers who nowadays have the skills to spot insufficient validation practices. However, there is more potential to further ease the review process, improve collaboration and make results and models available to fellow scientists. This workshop will teach practical lessons that can be directly applied to elevate the quality of ML applications in science by scientists.
+
+The overview talk serves to set the scene and present different areas where researchers can increase the quality of their research artefacts that use ML. These increases in quality are achieved by using existing solutions to minimize the impact these methods take on researcher productivity.
+
+This talk loosely covers the topics Jesper discussed in their Euroscipy tutorial which will be used for the interactive session here:
+
+https://github.com/JesperDramsch/ml-for-science-reproducibility-tutorial
+
+Topics covered:
+
+- Why make it reproducible?
+- Model Evaluation
+- Benchmarking
+- Model Sharing
+- Testing ML Code
+- Interpretability
+- Ablation Studies
+
+These topics are used as examples of “easy wins” researchers can implement to disproportionately improve the quality of their research output with minimal additional work using existing libraries and reusable code snippets.
+
 ### Increase citations, ease review & collaboration – Making machine learning in research reproducible
 
 | Event | Location | Date | Link | Video | Slides |
@@ -14,7 +41,7 @@
 > This tutorial aims to provide easy ways to increase the quality of scientific contributions that use machine learning methods. The reproducible aspect will make it easy for fellow researchers to use and iterate on a publication, increasing citations of published work. The use of appropriate validation techniques and increase in code quality accelerates the review process during publication and avoids possible rejection due to deficiencies in the methodology. Making models, code and possibly data available increases the visibility of work and enables easier collaboration on future work.
 >
 > This work to make machine learning applications reproducible has an outsized impact compared to the limited additional work that is required using existing Python libraries.
-### How to Guarantee No One Understands What You Did in Your Machine Learning Project
+### Application to Software Sustainability Institute Fellowship 2022
 
 | Event | Location | Date | Link | Video | Slides |
 | ----- | -------- | ---- | ---- | ----- | ------ |
@@ -47,34 +74,6 @@ Open to ideas, here's a start
 - interpretable and explainable AI
 
 Maybe PyData will have me?
-
-##### 🎥 KEEP YOUTUBE GOING
-My Youtube revolves around
-
-- 🤖 machine learning
-- 💾 data science
-- 🐍 Python programming
-- 👔 careers
-
-And I love talking about making these accessible. Access to open software is at the core of making research reproducible and good.
-
-
-##### ✒️WRITING
-I wrote 60 articles last year.
-
-These two fall squarely into the content that will help you make machine learning work in your research.
-
-> Get a Software Person!
-
-> If Your Model Doesn't Work, Make it Smaller
-
-##### 📣 TALKS
-
-I have presented a bunch of my research, but that's very different to giving a PyData conference talk.
-
-With the help of the amazing mentors for first-timers like myself, I started the "How to Guarantee ..." - series
-
-There's a playlist.
 
 #### CONCLUSION
 
