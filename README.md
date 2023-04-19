@@ -2,14 +2,6 @@
 
 ## All Talks
 
-
-
-
-
-
-
-
-
 <!-- TALKS -->
 ### Increase citations, ease review & collaboration – Making machine learning in research reproducible
 
@@ -113,13 +105,16 @@ For this Software Sustainability Institute 2022 fellowship I plan to:
 <!-- //TALKS -->
 
 
-
-
-
-
-
-
-
 ## Tech
 
 Marp based: https://marp.app/#get-started
+
+
+## License
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+Text, slides, arrangement and ideas communicated are licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
+
+Images are often from Unsplash and do not fall under this license.
