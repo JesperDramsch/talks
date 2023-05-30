@@ -2,7 +2,22 @@
 
 ## All Talks
 
+
 <!-- TALKS -->
+### How to find your people actually
+
+
+| Event | Location | Date | Link | Video | Slides |
+| ----- | -------- | ---- | ---- | ----- | ------ |
+| SSI Community Building Group | Online | 2023-04-19 |  | | [Slides](2023-04-19%20Community%20Talk/) |
+
+A guide on how to find and build a community that is welcoming, diverse, and aligned with your beliefs. 
+
+The author, Jesper Dramsch, shares their personal experience of participating in various communities, including queer munches, gaming discords, and professional communities, and highlights the issues that led to their departure, such as lack of diversity and recognition, questionable ethics, and personality cults. 
+
+The talk offers strategies for building a successful community, including creating a common belief system, defining values, using icons and tokens, establishing rituals, having a common language, recruiting mentors, and sharing superpowers. Where I also emphasize the importance of strong moderation, easy access, and being welcoming to everyone.
+
+
 ### Real-world Perspectives to Avoid the Worst Mistakes using Machine Learning in Science
 
 
@@ -102,6 +117,7 @@ For this Software Sustainability Institute 2022 fellowship I plan to:
 >
 > We'll explore specific tools from machine learning explainability, interpretability and touch on causality. We'll talk about ethical considerations. We'll explore helpful visualizations and tools for interactivity. Finally, we talk about model validation specific to different expert domains and tie it all together.
 <!-- //TALKS -->
+
 
 
 ## Tech
