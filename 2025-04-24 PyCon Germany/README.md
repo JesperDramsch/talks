@@ -1,4 +1,4 @@
-# A Year of "AI" Shenanigans - SSI Fellows Update
+# Going Global: Taking code from research to operational open ecosystem for AI weather forecasting
 
 | Event         | Location           | Date       | Link                                | Video |
 | ------------- | ------------------ | ---------- | ----------------------------------- | ----- |
