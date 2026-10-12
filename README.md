@@ -10,6 +10,7 @@
 
 
 
+
 <!-- TALKS -->
 ### Going Global: Taking code from research to operational open ecosystem for AI weather forecasting
 
@@ -196,6 +197,7 @@ For this Software Sustainability Institute 2022 fellowship I plan to:
 >
 > We'll explore specific tools from machine learning explainability, interpretability and touch on causality. We'll talk about ethical considerations. We'll explore helpful visualizations and tools for interactivity. Finally, we talk about model validation specific to different expert domains and tie it all together.
 <!-- //TALKS -->
+
 
 
 
